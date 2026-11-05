@@ -1,16 +1,17 @@
-## Hi there 👋
+### hey, I'm Hamish 👋
 
-<!--
-**hamstu/hamstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior engineer at [Buffer](https://buffer.com). I build product on the web by day,
+and spend a lot of evenings getting better at Japanese — mostly by reading games,
+visual novels, and manga.
 
-Here are some ideas to get you started:
+**Right now I'm building [Kimochi](https://github.com/hamstu/kimochi)** — a free,
+open-source OCR + text-hooker overlay so you can read Japanese in the stuff you
+already love, without breaking the flow. Check it out at [kimochiapp.com](https://kimochiapp.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Elsewhere**
+- ✍️ [eventuallyconsistent.ca](https://eventuallyconsistent.ca/) — digital garden (software, 日本語, games / MTG)
+- 🌐 [hami.sh](https://hami.sh)
+- 𝕏 [@hamstu](https://x.com/hamstu)
+
+Into small useful tools, PC games, Magic: The Gathering, and one more line of
+Japanese before bed. 頑張って!
